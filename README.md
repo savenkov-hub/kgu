@@ -3,11 +3,12 @@
 
 Цель - ознакомитсья с основами web-программирования и написать web-приложение
 
-В ходе обучения был реализован проект сайт-чат, на котором люди могут оставлять сообщения. Для доступа к функционалу пользователю необходимо зарегистрироваться и авторизваться в системе. После чего пользователь получает доступ к функционалу чата и может оставлять свои сообщения. Вся информация введенная пользвателем сохраняется в базе данных.
+В ходе обучения был реализован проект сайт-чат, на котором люди могут оставлять сообщения.
+Для доступа к функционалу пользователю необходимо зарегистрироваться и авторизваться в системе. После чего пользователь получает доступ к функционалу чата и может оставлять свои сообщения. Вся информация введенная пользвателем сохраняется в базе данных.
 
 Для разработки проекта был использованы следующие источники
-https://flask.palletsprojects.com/en/1.1.x/quickstart/ - 
-https://flask.palletsprojects.com/en/1.1.x/patterns/flashing/ - 
-https://flask-sqlalchemy.palletsprojects.com/en/2.x/ - Flask-SQLAlchemy
-https://werkzeug.palletsprojects.com/en/0.15.x/utils/ - для шифрования паролей пользовтелей
-https://www.postgresql.org/ - база данных postgreSQL 
+https://flask.palletsprojects.com/en/1.1.x/quickstart/;
+https://flask.palletsprojects.com/en/1.1.x/patterns/flashing/;
+https://flask-sqlalchemy.palletsprojects.com/en/2.x/ - Flask-SQLAlchemy;
+https://werkzeug.palletsprojects.com/en/0.15.x/utils/ - для шифрования паролей пользовтелей;
+https://www.postgresql.org/ - база данных postgreSQL;
